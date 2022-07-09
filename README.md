@@ -6,4 +6,4 @@ Things to Bring: Laptop with Node installed
 Learning Topics:  
 - What is Web3, Blockchain, and Solana  
 - How to connect your wallet  
-- How to mint a token?
+- ~How to mint a token?~ didnt happen lol
